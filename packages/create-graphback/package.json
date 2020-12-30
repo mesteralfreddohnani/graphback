@@ -35,7 +35,7 @@
     "@types/chalk": "0.4.31",
     "@types/inquirer": "7.3.1",
     "@types/jest": "26.0.19",
-    "@types/node": "12.19.9",
+    "@types/node": "12.19.11",
     "@types/node-emoji": "1.8.1",
     "@types/parse-github-url": "1.0.0",
     "@types/request": "2.48.5",

@@ -32,7 +32,7 @@
   "devDependencies": {
     "@types/chalk": "0.4.31",
     "@types/jest": "26.0.19",
-    "@types/node": "12.19.9",
+    "@types/node": "12.19.11",
     "@types/node-emoji": "1.8.1",
     "@types/yargs": "15.0.12",
     "jest": "26.6.3",

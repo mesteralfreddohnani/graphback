@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@types/jest": "26.0.19",
-    "@types/node": "12.19.9",
+    "@types/node": "12.19.11",
     "dataloader": "2.0.0",
     "graphql": "15.4.0",
     "jest": "26.6.3",
